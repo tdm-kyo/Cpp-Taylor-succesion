@@ -1,12 +1,15 @@
-EN
+<div align="left">
 
+**EN**  
+Taylor series are mathematical expressions used to approximate the value of trigonometric functions. The following files translate these expressions into C++.
 
-Taylor series are mathematichal expression to approximate the value of goniometrich function, the following file translate this expression in c++ language.
-All the file have the same structure, an input from the user and a print, the precision depend on the <b>eps</b> variable
+All files share the same structure: user input followed by output. The precision is determined by the **eps** variable.
 
+<br>
 
-IT
+**IT**  
+Le successioni di Taylor sono espressioni matematiche che permettono di approssimare il valore di funzioni goniometriche. Nei file seguenti queste espressioni sono tradotte in linguaggio C++.
 
+Tutti i file hanno la stessa struttura: un input dall'utente e una stampa a video. La precisione è determinata dalla variabile **eps**.
 
-Le successioni di Taylor sono espressioni matematiche che permettono di approssimare il valore di funzioni goniometriche, nei file seguenti queste espressioni sono tradotte in linguaggio c++.
-Tutti i file hanno la stessa struttura, un input dall'utente e una stampa a video inoltre la precisione è determinata dalla variabile <b>eps<b>
+</div>
