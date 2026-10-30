@@ -1,5 +1,5 @@
 Taylor series are mathematichal expression to approximate the value of goniometrich function, the following file translate this expression in c++ language.
-All the file have the same structure, an input from the user and a print, the precision depend on the <b>eps<b> variable
+All the file have the same structure, an input from the user and a print, the precision depend on the <b>eps<\b> variable
 
 
 
